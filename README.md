@@ -26,8 +26,8 @@ Structuur nog te doen
 
 ## Part 3: Plotting change bias extremes
 
-* **Figure 12:** Linear Regression: Spatial trends and changes over time in extreme precipitation events
-* **Figure 13:** Two-Sample KS Test: Statistical evaluation of distributional shifts between datasets
+* **Figure 12:** Two-Sample KS Test: Statistical evaluation of distributional shifts between datasets
+* **Figure 13:** Linear Regression: Spatial trends and changes over time in extreme precipitation events
 
 ## Part 4: Extreme Value Theory and Return Period Mapping
 

@@ -1,11 +1,11 @@
 # 1. Initial setup
 
-Structuur nog te doen
+* Loading + cleaning data
 
 # 2. Exploratory analysis:
 ## Part 1: missing data
 
-Structuur nog te doen
+* Finding missing values + non-modelled years
 
 ## part 2: rainfall
 

@@ -2,16 +2,16 @@
 
 * Loading + cleaning data
 
-# 2. Exploratory analysis:
+# 2. Exploratory analysis
 ## Part 1: missing data
 
-* Finding missing values + non-modelled years
+* Finding missing values and non-modelled years
 
 ## part 2: rainfall
 
 Structuur nog te doen
 
-# 3. Extreme Rainfall Analysis Schedule
+# 3. Extreme Rainfall Analysis
 
 ## Part 1:  Plotting values extremes
 

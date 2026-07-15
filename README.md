@@ -14,7 +14,7 @@ Structuur nog te doen
 
 # 3. Extreme Rainfall Analysis Schedule
 
-## Part 1:  Plotting extremes
+## Part 1:  Plotting values extremes
 
 * **Figure 6:** Monthly occurrence frequency of annual maxima maps
 * **Figure 7:** Monthly mean intensity of annual maxima maps

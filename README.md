@@ -22,8 +22,7 @@ Structuur nog te doen
 
 * **Figure 8 & 9:** Spatial maps of multi-year time-mean annual maxima (Raw Values and Relative Bias)
 * **Figure 10 & 11:** Timeseries of domain-wide spatially-averaged annual maxima (Raw Values and Relative Bias)
-* **Table 1:** Overall aggregated multi-year raw intensity values comparing both extraction pathways
-* **Table 2:** Overall aggregated multi-year relative bias percentages comparing both extraction pathways
+* **Table 1 & 2:** Overall aggregated multi-year comparing both extraction pathways (Raw Values and Relative Bias)
 
 ## Part 3: Plotting change bias extremes
 

@@ -7,7 +7,6 @@ Structuur nog te doen
 
 Structuur nog te doen
 
-# 2. Exploratory analysis:
 ## part 2: rainfall
 
 Structuur nog te doen
@@ -28,8 +27,8 @@ Structuur nog te doen
 
 ## Part 3: Plotting change bias extremes
 
-* **Linear Regression:** Spatial trends and changes over time in extreme precipitation events
-* **Two-Sample KS Test:** Statistical evaluation of distributional shifts between datasets
+* **Figure 12:** Linear Regression: Spatial trends and changes over time in extreme precipitation events
+* **Figure 13:** Two-Sample KS Test: Statistical evaluation of distributional shifts between datasets
 
 ## Part 4: Extreme Value Theory and Return Period Mapping
 

@@ -14,19 +14,19 @@ Structuur nog te doen
 
 # 3. Extreme Rainfall Analysis Schedule
 
-## Part 1: Occurrence and Intensity of Annual Maxima
+## Part 1:  Plotting extremes
 
 * **Figure 6:** Monthly occurrence frequency of annual maxima maps
 * **Figure 7:** Monthly mean intensity of annual maxima maps
 
-## Part 2: Climatological and Aggregated Extreme Biases
+## Part 2: Plotting bias + values extremes
 
 * **Figure 8 & 9:** Spatial maps of multi-year time-mean annual maxima (Raw Values and Relative Bias)
 * **Figure 10 & 11:** Timeseries of domain-wide spatially-averaged annual maxima (Raw Values and Relative Bias)
 * **Table 1:** Overall aggregated multi-year raw intensity values comparing both extraction pathways
 * **Table 2:** Overall aggregated multi-year relative bias percentages comparing both extraction pathways
 
-## Part 3: Trend Detection and Statistical Signatures
+## Part 3: Plotting change bias extremes
 
 * **Linear Regression:** Spatial trends and changes over time in extreme precipitation events
 * **Two-Sample KS Test:** Statistical evaluation of distributional shifts between datasets

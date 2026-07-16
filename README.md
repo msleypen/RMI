@@ -1,11 +1,11 @@
-# 1. Initial setup
+# 1. Initial Setup
 
-* Loading + cleaning data
+* Loading + preprocessing data
 
-# 2. Exploratory analysis
+# 2. Exploratory Analysis
 ## Part 1: missing data
 
-* Finding missing values and non-modelled years
+* Removing missing values and non-modelled years
 
 ## part 2: rainfall
 

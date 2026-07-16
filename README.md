@@ -2,8 +2,8 @@
 
 * Loading + preprocessing data
 
-# 2. Exploratory Analysis
-## Part 1: Missing data
+## 2. Exploratory Analysis
+### Part 1: Missing data
 
 * Removing missing values and non-modelled years
 

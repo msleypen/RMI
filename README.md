@@ -3,11 +3,11 @@
 * Loading + preprocessing data
 
 # 2. Exploratory Analysis
-## Part 1: missing data
+## Part 1: Missing data
 
 * Removing missing values and non-modelled years
 
-## part 2: rainfall
+## part 2: Rainfall
 
 * **Figure 1:** Monthly precipitation climatology
 

@@ -1,10 +1,10 @@
-# Extreme Precipitation Analysis in Belgium (RMI)
+# Extreme Precipitation Analysis in Belgium
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 
-This repository contains the data analysis pipeline for evaluating extreme precipitation in Belgium. It utilizes high-resolution **CORDEX.be II** climate models compared against historical observations from the **Royal Meteorological Institute (RMI)**. 
+This repository contains the data analysis pipeline for evaluating extreme precipitation in Belgium. It compares high-resolution CORDEX.be II climate models against historical observations.
 
-The primary goal is to analyze historical biases, detect spatial trends in precipitation, and model extreme events using Extreme Value Theory (EVT).
+The primary goal is to assess the performance of these models. This is achieved by analysing historical biases, spatial trends in precipitation, and modelling extreme events using Extreme Value Theory (EVT).
 
 ---
 
@@ -58,6 +58,7 @@ The primary goal is to analyze historical biases, detect spatial trends in preci
 
 # Data
 
+All data will be publicly available by ... on ... .
 
 ---
 

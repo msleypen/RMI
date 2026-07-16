@@ -1,7 +1,7 @@
 # Extreme Precipitation Analysis in Belgium (RMI)
 
 [![Data DOI](https://img.shields.io/badge/Zenodo-Pending-blue.svg)](https://zenodo.org/)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the data analysis pipeline for evaluating extreme precipitation in Belgium. It utilizes high-resolution **CORDEX.be II** climate models compared against historical observations from the **Royal Meteorological Institute (RMI)**. 

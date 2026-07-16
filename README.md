@@ -55,3 +55,7 @@ The primary goal is to analyze historical biases, detect spatial trends in preci
 
 * **GEV Fitting:** Pixelwise parametrization of Generalized Extreme Value distributions for observations and models
 * **Return Period Maps:** Spatial mapping of return levels and return periods (e.g., 10-year, 50-year, or 100-year events)
+
+---
+
+# Data

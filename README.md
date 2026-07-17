@@ -57,8 +57,7 @@ The primary goal is to assess the performance of these models. This is achieved 
 
 ### Part 4: Extreme Value Theory and Return Period Mapping
 
-* **GEV Fitting:** Pixelwise parametrization of Generalized Extreme Value distributions for observations and models
-* **Return Period Maps:** Spatial mapping of return levels and return periods (e.g., 10-year, 50-year, or 100-year events)
+* **Figure 21 & 22:** Pixelwise parametrization of Generalized Extreme Value distributions for observations and models, spatial mapping of return levels and return periods (2, 5, 10, 20, 30, 50, 100 and 200 year)
 
 ---
 

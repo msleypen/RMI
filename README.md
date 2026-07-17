@@ -63,6 +63,6 @@ All data will be made publicly available on ... by ... .
 
 # Contributing & Contact
 
-A special thanks to Bert Van Schaeybroeck, Inne Vanderkelen (@Ivanderkelen), Hans Van de Vyver, and Kobe Vandelanotte (@kobebryant432) for the supervision and help throughout this project.
+A special thanks to Bert Van Schaeybroeck, Inne Vanderkelen ([@Ivanderkelen](https://github.com/Ivanderkelen)), Hans Van de Vyver, and Kobe Vandelanotte ([@kobebryant432](https://github.com/kobebryant432)) for the supervision and help throughout this project.
 
 I maintain and take full responsibility for the code logic and implementation within this repository. Feel free to adapt, modify, or build upon any part of this repository with proper attribution.
